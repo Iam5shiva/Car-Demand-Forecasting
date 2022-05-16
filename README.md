@@ -1,4 +1,4 @@
-# EDA-on-NYC-Trip-Duration-dataset
+# Car Demand Forecasting
 ## Problem Statement
 ABC is a car rental company based out of Bangalore. It rents cars for both in and out stations at affordable prices. The users can rent different types of cars like Sedans, Hatchbacks, SUVs and MUVs, Minivans and so on.
 
